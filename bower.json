@@ -1,0 +1,24 @@
+{
+  "name": "mx.waterfall",
+  "version": "0.0.1",
+  "homepage": "https://github.com/Bytesu/mx.waterfall",
+  "authors": [
+    "bytesu <byte_su@163.com>"
+  ],
+  "description": "waterfall",
+  "main": "index",
+  "keywords": [
+    "waterfall"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "jquery": "~2.1.4"
+  }
+}
